@@ -1,5 +1,7 @@
 Polish manual, needs English translation
 
+<img src="images/makemesprite-logo-small.png">
+
 <ol>
     <li>
         <h3>Co to jest makemesprite ?</h3>
